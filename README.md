@@ -1,0 +1,2 @@
+# newlinux
+setup new linux
